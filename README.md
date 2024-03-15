@@ -4,20 +4,20 @@
 
 This is a Jest demo implementation by [Chris Atkinson](mailto:cjatkinson19@gmail.com).
 
-The framework showscases some simple Jest Unit testing patterns.
+The framework showscases some simple Jest unit testing patterns.
 
 ## Installation
 
 1. Clone this repository:
 
 ```bash
-git clone git@github.com:cjatkinson/chris-cypress-cucumber-demo.git
+git clone git@github.com:cjatkinson/chris-jest-demo.git
 ```
 
 2. Install the dependencies:
 
 ```bash
-cd chris-cypress-cucumber-demo
+cd chris-jest-demo
 npm i
 ```
 
