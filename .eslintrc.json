@@ -1,0 +1,21 @@
+{
+  "env": {
+    "node": true,
+    "commonjs": true,
+    "browser": true,
+    "es2021": true,
+    "jest/globals": true
+  },
+  "extends": ["eslint:recommended", "plugin:prettier/recommended", "eslint:recommended", "prettier"],
+  "plugins": ["jest"],
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "rules": {
+    "prettier/prettier": ["error"],
+    "prefer-const": "error",
+    "arrow-parens": ["error", "always"],
+    "no-unreachable": "error",
+    "strict": ["error", "global"]
+  }
+}
