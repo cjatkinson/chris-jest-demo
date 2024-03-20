@@ -4,7 +4,7 @@
 
 This is a Jest demo implementation by [Chris Atkinson](mailto:cjatkinson19@gmail.com).
 
-The framework showscases some simple Jest unit testing patterns.
+The framework showcases some simple Jest unit testing patterns.
 
 ## Installation
 
@@ -44,6 +44,6 @@ npm run coverage
 ```
 
 ## TODO
-* Add component testing.
-* Build small React demo project.
-* Add integration test examples.
+
+- Add component testing.
+- Build small React demo project.
